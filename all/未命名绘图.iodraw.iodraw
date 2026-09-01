@@ -25,7 +25,7 @@
         <mxCell id="eSw9B12bEd1kR0_zRsDV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;" edge="1" source="eSw9B12bEd1kR0_zRsDV-6" target="eSw9B12bEd1kR0_zRsDV-15" parent="eSw9B12bEd1kR0_zRsDV-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw9B12bEd1kR0_zRsDV-15" value="&lt;span style=&quot;font-weight: 700; text-wrap: nowrap;&quot;&gt;集中资源管理团队&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="eSw9B12bEd1kR0_zRsDV-5">
+        <mxCell id="eSw9B12bEd1kR0_zRsDV-15" value="&lt;span style=&quot;font-weight: 700; text-wrap: nowrap;&quot;&gt;招标跳纤队人员&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="eSw9B12bEd1kR0_zRsDV-5">
           <mxGeometry x="300" y="130" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
