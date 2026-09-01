@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eSw9B12bEd1kR0_zRsDV-5" value="Vertical Tree Layout" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="134" y="210" width="280" height="190" as="geometry" />
+          <mxGeometry x="134" y="210" width="420" height="190" as="geometry" />
         </mxCell>
         <mxCell id="eSw9B12bEd1kR0_zRsDV-6" value="&lt;span style=&quot;font-weight: 700; text-wrap: nowrap;&quot;&gt;集中资源管理团队&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="eSw9B12bEd1kR0_zRsDV-5">
-          <mxGeometry x="90" y="40" width="100" height="40" as="geometry" />
+          <mxGeometry x="160" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eSw9B12bEd1kR0_zRsDV-7" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;县公司自有人员&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="eSw9B12bEd1kR0_zRsDV-5">
           <mxGeometry x="20" y="130" width="100" height="40" as="geometry" />
@@ -21,6 +21,12 @@
         </mxCell>
         <mxCell id="eSw9B12bEd1kR0_zRsDV-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="eSw9B12bEd1kR0_zRsDV-5" source="eSw9B12bEd1kR0_zRsDV-6" target="eSw9B12bEd1kR0_zRsDV-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSw9B12bEd1kR0_zRsDV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="eSw9B12bEd1kR0_zRsDV-6" target="eSw9B12bEd1kR0_zRsDV-15" parent="eSw9B12bEd1kR0_zRsDV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSw9B12bEd1kR0_zRsDV-15" value="&lt;span style=&quot;font-weight: 700; text-wrap: nowrap;&quot;&gt;集中资源管理团队&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="eSw9B12bEd1kR0_zRsDV-5">
+          <mxGeometry x="300" y="130" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
