@@ -40,11 +40,11 @@
         <mxCell id="QPcDrRMthleFLfJbtjpl-17" value="管" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="310" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QPcDrRMthleFLfJbtjpl-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QPcDrRMthleFLfJbtjpl-18" target="QPcDrRMthleFLfJbtjpl-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-18" value="管" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="310" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QPcDrRMthleFLfJbtjpl-20" value="战" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="310" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
