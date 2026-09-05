@@ -13,8 +13,16 @@
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-4" target="OJO0FYUDw2oLEoO9Q_O9-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OJO0FYUDw2oLEoO9Q_O9-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-4" target="OJO0FYUDw2oLEoO9Q_O9-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="369" y="150" />
+              <mxPoint x="200" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-4" value="集中跳纤队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="130" width="117" height="30" as="geometry" />
+          <mxGeometry x="310" y="100" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-7" value="铁通集客人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="580" width="120" height="60" as="geometry" />
@@ -115,7 +123,7 @@
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-55" value="集客" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="360" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OJO0FYUDw2oLEoO9Q_O9-61" value="过渡期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OJO0FYUDw2oLEoO9Q_O9-61" value="过渡阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-63" value="正式阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
