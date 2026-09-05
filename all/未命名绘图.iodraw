@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-1" value="跳纤队伍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="260" width="120" height="30" as="geometry" />
+          <mxGeometry x="730" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPcDrRMthleFLfJbtjpl-2" target="QPcDrRMthleFLfJbtjpl-6">
           <mxGeometry relative="1" as="geometry" />
@@ -32,13 +32,16 @@
           <mxGeometry x="210" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-8" value="跳纤人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="370" width="120" height="30" as="geometry" />
+          <mxGeometry x="730" y="370" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPcDrRMthleFLfJbtjpl-9" target="QPcDrRMthleFLfJbtjpl-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-9" value="管：县公司传输主管" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="500" y="310" width="120" height="30" as="geometry" />
+          <mxGeometry x="730" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QPcDrRMthleFLfJbtjpl-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="310" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
