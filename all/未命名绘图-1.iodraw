@@ -10,14 +10,6 @@
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-2" value="协维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="360" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OJO0FYUDw2oLEoO9Q_O9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-4" target="OJO0FYUDw2oLEoO9Q_O9-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="200" y="240" />
-              <mxPoint x="60" y="240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-4" target="OJO0FYUDw2oLEoO9Q_O9-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -124,7 +116,10 @@
           <mxGeometry x="850" y="360" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-61" value="过渡期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJO0FYUDw2oLEoO9Q_O9-63" value="过渡期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
