@@ -16,10 +16,10 @@
         <mxCell id="QPcDrRMthleFLfJbtjpl-2" value="集中资源管理团队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QPcDrRMthleFLfJbtjpl-4" value="资源录入人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QPcDrRMthleFLfJbtjpl-4" value="战：资源录入人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="370" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QPcDrRMthleFLfJbtjpl-5" value="各专业自有人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QPcDrRMthleFLfJbtjpl-5" value="建：各专业自有人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="370" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPcDrRMthleFLfJbtjpl-6" target="QPcDrRMthleFLfJbtjpl-5">
