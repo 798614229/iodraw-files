@@ -14,7 +14,7 @@
           <mxGeometry x="290" y="180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-4" value="资源录入人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="360" width="120" height="30" as="geometry" />
+          <mxGeometry x="380" y="370" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-5" value="各专业自有人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="370" width="120" height="30" as="geometry" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-9" value="管：县公司传输主管" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="730" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QPcDrRMthleFLfJbtjpl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPcDrRMthleFLfJbtjpl-15" target="QPcDrRMthleFLfJbtjpl-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-15" value="外部人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="240" width="120" height="30" as="geometry" />
@@ -54,6 +57,9 @@
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-18" value="建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="310" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QPcDrRMthleFLfJbtjpl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPcDrRMthleFLfJbtjpl-20" target="QPcDrRMthleFLfJbtjpl-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-20" value="战" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="310" width="40" height="40" as="geometry" />
