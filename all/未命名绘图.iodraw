@@ -64,6 +64,12 @@
         <mxCell id="QPcDrRMthleFLfJbtjpl-29" value="外部人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="240" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QPcDrRMthleFLfJbtjpl-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPcDrRMthleFLfJbtjpl-30" target="QPcDrRMthleFLfJbtjpl-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QPcDrRMthleFLfJbtjpl-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPcDrRMthleFLfJbtjpl-30" target="QPcDrRMthleFLfJbtjpl-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-30" value="自有人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="240" width="120" height="30" as="geometry" />
         </mxCell>
@@ -79,7 +85,12 @@
           <mxGeometry x="540" y="300" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPcDrRMthleFLfJbtjpl-32" target="QPcDrRMthleFLfJbtjpl-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="350" />
+              <mxPoint x="590" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-32" value="建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="300" width="40" height="40" as="geometry" />
