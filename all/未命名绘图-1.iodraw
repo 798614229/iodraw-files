@@ -13,21 +13,22 @@
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-4" target="OJO0FYUDw2oLEoO9Q_O9-61">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="489" y="160" />
+              <mxPoint x="479" y="160" />
               <mxPoint x="210" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OJO0FYUDw2oLEoO9Q_O9-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-4" target="OJO0FYUDw2oLEoO9Q_O9-63">
+        <mxCell id="OJO0FYUDw2oLEoO9Q_O9-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-4" target="OJO0FYUDw2oLEoO9Q_O9-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="489" y="160" />
+              <mxPoint x="480" y="110" />
+              <mxPoint x="480" y="160" />
               <mxPoint x="720" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-4" value="集中跳纤队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="80" width="117" height="30" as="geometry" />
+          <mxGeometry x="420" y="80" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-7" value="铁通集客人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="580" width="120" height="60" as="geometry" />
