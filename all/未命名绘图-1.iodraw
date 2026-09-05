@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-1" value="集客" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-72" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="-72" y="400" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-2" value="协维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="68" y="400" width="120" height="40" as="geometry" />
@@ -49,13 +49,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-12" value="模式二：按县分队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="270" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="270" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-13" target="OJO0FYUDw2oLEoO9Q_O9-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-13" value="模式一：按片分队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="270" width="120" height="40" as="geometry" />
+          <mxGeometry y="270" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-14" value="集客" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="218" y="400" width="120" height="40" as="geometry" />
