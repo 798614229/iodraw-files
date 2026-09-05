@@ -18,14 +18,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OJO0FYUDw2oLEoO9Q_O9-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-4" target="OJO0FYUDw2oLEoO9Q_O9-63">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="489" y="160" />
-              <mxPoint x="717" y="160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-4" value="集中跳纤队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="80" width="117" height="30" as="geometry" />
         </mxCell>
