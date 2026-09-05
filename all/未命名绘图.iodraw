@@ -11,7 +11,7 @@
           <mxGeometry x="730" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-2" value="集中资源管理团队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="200" width="120" height="30" as="geometry" />
+          <mxGeometry x="280" y="200" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-4" value="战：资源录入人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="360" width="120" height="30" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="QPcDrRMthleFLfJbtjpl-5" value="建：各专业自有人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="360" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QPcDrRMthleFLfJbtjpl-6" value="管：市公司网络部&lt;div&gt;主管经理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="QPcDrRMthleFLfJbtjpl-6" value="市公司网络部&lt;div&gt;主管经理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-8" value="跳纤人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -35,7 +35,7 @@
           <mxGeometry x="380" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-16" value="自有人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="260" width="120" height="30" as="geometry" />
+          <mxGeometry x="180" y="260" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
