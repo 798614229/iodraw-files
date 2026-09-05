@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QPcDrRMthleFLfJbtjpl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPcDrRMthleFLfJbtjpl-1" target="QPcDrRMthleFLfJbtjpl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-1" value="跳纤队伍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="260" width="120" height="30" as="geometry" />
         </mxCell>
@@ -18,6 +21,12 @@
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-5" value="各专业自有人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QPcDrRMthleFLfJbtjpl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPcDrRMthleFLfJbtjpl-6" target="QPcDrRMthleFLfJbtjpl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QPcDrRMthleFLfJbtjpl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPcDrRMthleFLfJbtjpl-6" target="QPcDrRMthleFLfJbtjpl-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-6" value="市公司网络部&lt;div&gt;主管经理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="210" y="310" width="120" height="30" as="geometry" />
