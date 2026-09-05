@@ -46,7 +46,7 @@
           <mxGeometry x="130" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-12" value="模式二：按县分队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-13" target="OJO0FYUDw2oLEoO9Q_O9-20">
           <mxGeometry relative="1" as="geometry" />
@@ -61,6 +61,9 @@
           <mxGeometry x="352" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-20" target="OJO0FYUDw2oLEoO9Q_O9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OJO0FYUDw2oLEoO9Q_O9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-20" target="OJO0FYUDw2oLEoO9Q_O9-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-20" value="铁通招标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
