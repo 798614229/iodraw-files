@@ -7,6 +7,9 @@
         <mxCell id="QPcDrRMthleFLfJbtjpl-1" value="跳纤队伍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="310" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QPcDrRMthleFLfJbtjpl-2" value="集中资源管理团队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
