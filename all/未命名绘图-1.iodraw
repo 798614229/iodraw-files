@@ -20,10 +20,10 @@
           <mxGeometry x="130" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-7" value="铁通集客人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-8" value="代维单位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-11" target="OJO0FYUDw2oLEoO9Q_O9-7">
           <mxGeometry relative="1" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-11" value="集中跳纤队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
