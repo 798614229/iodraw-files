@@ -79,52 +79,52 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-46" value="集客" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="360" width="120" height="30" as="geometry" />
+          <mxGeometry x="520" y="360" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OJO0FYUDw2oLEoO9Q_O9-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="770" y="240" />
-              <mxPoint x="630" y="240" />
+              <mxPoint x="720" y="240" />
+              <mxPoint x="580" y="240" />
             </Array>
-            <mxPoint x="770.0588235294117" y="230" as="sourcePoint" />
+            <mxPoint x="720.0588235294117" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-63" target="OJO0FYUDw2oLEoO9Q_O9-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="930" y="220" as="targetPoint" />
+            <mxPoint x="880" y="220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="770" y="180" />
-              <mxPoint x="770" y="240" />
-              <mxPoint x="910" y="240" />
+              <mxPoint x="720" y="180" />
+              <mxPoint x="720" y="240" />
+              <mxPoint x="860" y="240" />
             </Array>
-            <mxPoint x="770.0588235294117" y="230" as="sourcePoint" />
+            <mxPoint x="720.0588235294117" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-52" target="OJO0FYUDw2oLEoO9Q_O9-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="910" y="330" as="targetPoint" />
+            <mxPoint x="860" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-52" value="模式二：按县分队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="270" width="120" height="30" as="geometry" />
+          <mxGeometry x="800" y="270" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-54" target="OJO0FYUDw2oLEoO9Q_O9-46">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="330" as="targetPoint" />
+            <mxPoint x="580" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-54" value="模式一：按片分队&lt;div&gt;（东西南北片区）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="270" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-55" value="集客" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="360" width="120" height="30" as="geometry" />
+          <mxGeometry x="800" y="360" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-61" value="过渡阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-63" value="正式阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="657" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
