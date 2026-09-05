@@ -11,7 +11,10 @@
           <mxGeometry x="210" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-4" value="资源录入人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="370" width="120" height="30" as="geometry" />
+          <mxGeometry x="280" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QPcDrRMthleFLfJbtjpl-5" value="各专业自有人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="370" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
