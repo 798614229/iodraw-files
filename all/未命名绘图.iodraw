@@ -4,30 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eSw9B12bEd1kR0_zRsDV-5" value="组织架构" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="180" y="200" width="420" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="eSw9B12bEd1kR0_zRsDV-6" value="&lt;span style=&quot;font-weight: 700; text-wrap: nowrap;&quot;&gt;集中资源管理团队&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="eSw9B12bEd1kR0_zRsDV-5" vertex="1">
-          <mxGeometry x="160" y="40" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eSw9B12bEd1kR0_zRsDV-7" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;县公司&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;自有人员&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="eSw9B12bEd1kR0_zRsDV-5" vertex="1">
-          <mxGeometry x="20" y="130" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eSw9B12bEd1kR0_zRsDV-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="eSw9B12bEd1kR0_zRsDV-5" source="eSw9B12bEd1kR0_zRsDV-6" target="eSw9B12bEd1kR0_zRsDV-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eSw9B12bEd1kR0_zRsDV-9" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;市公司&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;各专业自有人员&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="eSw9B12bEd1kR0_zRsDV-5" vertex="1">
-          <mxGeometry x="160" y="130" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eSw9B12bEd1kR0_zRsDV-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="eSw9B12bEd1kR0_zRsDV-5" source="eSw9B12bEd1kR0_zRsDV-6" target="eSw9B12bEd1kR0_zRsDV-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eSw9B12bEd1kR0_zRsDV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;" parent="eSw9B12bEd1kR0_zRsDV-5" source="eSw9B12bEd1kR0_zRsDV-6" target="eSw9B12bEd1kR0_zRsDV-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eSw9B12bEd1kR0_zRsDV-15" value="&lt;span style=&quot;font-weight: 700; text-wrap: nowrap;&quot;&gt;招标跳纤队人员&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="eSw9B12bEd1kR0_zRsDV-5" vertex="1">
-          <mxGeometry x="300" y="130" width="100" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
