@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QPcDrRMthleFLfJbtjpl-1" value="跳纤队伍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="230" width="120" height="30" as="geometry" />
+          <mxGeometry x="600" y="170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPcDrRMthleFLfJbtjpl-2" target="QPcDrRMthleFLfJbtjpl-16">
           <mxGeometry relative="1" as="geometry" />
@@ -25,14 +25,8 @@
         <mxCell id="QPcDrRMthleFLfJbtjpl-6" value="市公司网络部&lt;div&gt;主管经理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="120" y="370" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QPcDrRMthleFLfJbtjpl-8" value="跳纤人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="370" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QPcDrRMthleFLfJbtjpl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPcDrRMthleFLfJbtjpl-9" target="QPcDrRMthleFLfJbtjpl-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-9" value="管：县公司传输主管" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="770" y="310" width="120" height="30" as="geometry" />
+          <mxGeometry x="550" y="370" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPcDrRMthleFLfJbtjpl-15" target="QPcDrRMthleFLfJbtjpl-20">
           <mxGeometry relative="1" as="geometry" />
@@ -66,6 +60,12 @@
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-20" value="战" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="310" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QPcDrRMthleFLfJbtjpl-29" value="外部人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QPcDrRMthleFLfJbtjpl-30" value="自有人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
