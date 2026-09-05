@@ -40,8 +40,11 @@
         <mxCell id="QPcDrRMthleFLfJbtjpl-9" value="管：县公司传输主管" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="730" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QPcDrRMthleFLfJbtjpl-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QPcDrRMthleFLfJbtjpl-15" value="外部人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QPcDrRMthleFLfJbtjpl-16" value="外部人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
