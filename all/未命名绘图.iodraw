@@ -74,9 +74,6 @@
         <mxCell id="QPcDrRMthleFLfJbtjpl-17" value="管" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="110" y="320" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QPcDrRMthleFLfJbtjpl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QPcDrRMthleFLfJbtjpl-18" target="QPcDrRMthleFLfJbtjpl-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-18" value="建" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="220" y="320" width="40" height="40" as="geometry" />
         </mxCell>
