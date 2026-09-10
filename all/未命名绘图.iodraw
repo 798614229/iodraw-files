@@ -79,7 +79,7 @@
         <mxCell id="dbiHQ0OyRL_4AKsPYC3h-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QPcDrRMthleFLfJbtjpl-20" target="QPcDrRMthleFLfJbtjpl-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QPcDrRMthleFLfJbtjpl-20" value="战" style="rhombus;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+        <mxCell id="QPcDrRMthleFLfJbtjpl-20" value="战" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="420" y="320" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QPcDrRMthleFLfJbtjpl-29" target="QPcDrRMthleFLfJbtjpl-33" edge="1">
@@ -145,7 +145,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QPcDrRMthleFLfJbtjpl-33" value="战" style="rhombus;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+        <mxCell id="QPcDrRMthleFLfJbtjpl-33" value="战" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="710" y="300" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-34" value="跳纤作业人员" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
