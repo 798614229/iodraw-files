@@ -41,7 +41,12 @@
           <mxGeometry x="380" y="240" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QPcDrRMthleFLfJbtjpl-16" target="QPcDrRMthleFLfJbtjpl-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="290" />
+              <mxPoint x="110" y="290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QPcDrRMthleFLfJbtjpl-16" target="QPcDrRMthleFLfJbtjpl-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -75,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-20" value="战" style="rhombus;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
-          <mxGeometry x="420" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="330" y="320" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QPcDrRMthleFLfJbtjpl-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QPcDrRMthleFLfJbtjpl-29" target="QPcDrRMthleFLfJbtjpl-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
