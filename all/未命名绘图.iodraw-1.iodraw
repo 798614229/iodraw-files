@@ -90,12 +90,6 @@
             <mxPoint x="570" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_UhpOqRxg9HbTItCM2ql-46" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_UhpOqRxg9HbTItCM2ql-12" target="_UhpOqRxg9HbTItCM2ql-16">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="380" as="sourcePoint" />
-            <mxPoint x="570" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-47" value="盘纤" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;strokeColor=none;direction=south;" vertex="1" parent="1">
           <mxGeometry x="480" y="315" width="45" height="20" as="geometry" />
         </mxCell>
@@ -115,7 +109,7 @@
           <mxGeometry x="561.61" y="425.39" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-67" value="分纤" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="380" width="40" height="20" as="geometry" />
+          <mxGeometry x="360" y="380" width="10" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
