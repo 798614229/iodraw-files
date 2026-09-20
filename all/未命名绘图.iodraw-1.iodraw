@@ -109,8 +109,8 @@
             <mxPoint x="570" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_UhpOqRxg9HbTItCM2ql-61" value="穿管" style="rounded=0;whiteSpace=wrap;html=1;rotation=-45;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="430" width="40" height="20" as="geometry" />
+        <mxCell id="_UhpOqRxg9HbTItCM2ql-61" value="分纤、穿管" style="rounded=0;whiteSpace=wrap;html=1;rotation=-45;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565.61" y="419.39" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
