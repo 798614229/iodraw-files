@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Za7HCowrxs8yO5_SHyIf">
-    <mxGraphModel dx="1122" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
           <mxGeometry x="780" y="175" width="190" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-31" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;1、&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;携带OTDR开机出发至操作区域&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;2、拽缆过河&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;3、开剥远端光缆（填充芯，割竖管），开缆的时候不换手&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;3、熔接：左侧纤芯制作、放置&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;4、收拾工具，递手钻（接头盒）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="120" y="445.39" width="190" height="140" as="geometry" />
+          <mxGeometry x="110" y="445.39" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-34" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;1、&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;完成卫星车、微波项目后返回&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;2、上接头盒胶条、螺丝" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="780" y="445" width="190" height="140" as="geometry" />
