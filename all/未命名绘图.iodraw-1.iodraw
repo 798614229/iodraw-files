@@ -26,7 +26,11 @@
           <mxGeometry x="630" y="200" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_UhpOqRxg9HbTItCM2ql-12" target="_UhpOqRxg9HbTItCM2ql-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="444" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-12" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;陈超&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;(卫星车)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="414" y="290" width="60" height="90" as="geometry" />
@@ -89,7 +93,7 @@
           <mxGeometry x="453" y="490" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-51" value="穿管" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="407" y="440" width="40" height="20" as="geometry" />
+          <mxGeometry x="455" y="420" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_UhpOqRxg9HbTItCM2ql-13" target="_UhpOqRxg9HbTItCM2ql-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
