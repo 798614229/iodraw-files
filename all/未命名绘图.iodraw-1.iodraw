@@ -4,11 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mwNcCX6VRX-eQ0xU2xN--27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="mwNcCX6VRX-eQ0xU2xN--27" value="抱杆" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="680" y="150" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mwNcCX6VRX-eQ0xU2xN--28" value="油机" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="370" height="160" as="geometry" />
@@ -53,8 +50,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mwNcCX6VRX-eQ0xU2xN--39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="mwNcCX6VRX-eQ0xU2xN--39" value="油机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
