@@ -40,10 +40,10 @@
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--40" value="操作台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="200" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mwNcCX6VRX-eQ0xU2xN--41" value="董振" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="mwNcCX6VRX-eQ0xU2xN--41" value="董振" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="540" y="360" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mwNcCX6VRX-eQ0xU2xN--42" value="刘博洋" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="mwNcCX6VRX-eQ0xU2xN--42" value="刘博洋" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="610" y="60" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
