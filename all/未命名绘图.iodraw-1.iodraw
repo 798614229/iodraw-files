@@ -25,9 +25,6 @@
         <mxCell id="_UhpOqRxg9HbTItCM2ql-9" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;刘博洋&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;(微波)&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="630" y="200" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_UhpOqRxg9HbTItCM2ql-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_UhpOqRxg9HbTItCM2ql-12" target="_UhpOqRxg9HbTItCM2ql-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-12" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;陈超&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;(卫星车)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="361.5" y="335" width="87" height="90" as="geometry" />
         </mxCell>
@@ -90,6 +87,12 @@
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-61" value="分纤、穿管" style="rounded=0;whiteSpace=wrap;html=1;rotation=-45;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="561.61" y="425.39" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_UhpOqRxg9HbTItCM2ql-71" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_UhpOqRxg9HbTItCM2ql-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="380" as="sourcePoint" />
+            <mxPoint x="570" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
