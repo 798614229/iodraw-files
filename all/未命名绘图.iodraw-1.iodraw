@@ -19,7 +19,7 @@
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--30" value="1、微波&lt;div&gt;2、笔记本电脑&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mwNcCX6VRX-eQ0xU2xN--31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mwNcCX6VRX-eQ0xU2xN--31" value="集成BBU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="250" width="186" height="100" as="geometry" />
         </mxCell>
       </root>
