@@ -44,7 +44,7 @@
           <mxGeometry x="575" y="370" width="335" height="280" as="geometry" />
         </mxCell>
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--47" value="1、携带油机、远端微波、手钻出发&lt;div&gt;远端：&lt;br&gt;&lt;div&gt;2、接油机、集成BBU地线（报XX接地完成）&lt;/div&gt;&lt;div&gt;3、油机风门→档位→打火→运行档位→单手测电压&lt;/div&gt;&lt;div&gt;4、微波挂设→接线→扎带&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;近端：&lt;/div&gt;&lt;/div&gt;&lt;div&gt;5、接地线→接电→电表测电压→测信源光功率→记录光功率（-dBm）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="334.5" y="-130" width="315" height="260" as="geometry" />
+          <mxGeometry x="300" y="-120" width="315" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
