@@ -40,20 +40,11 @@
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--40" value="操作台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="515" y="200" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mwNcCX6VRX-eQ0xU2xN--46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mwNcCX6VRX-eQ0xU2xN--41" target="mwNcCX6VRX-eQ0xU2xN--45" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mwNcCX6VRX-eQ0xU2xN--41" value="董振" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="540" y="360" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--45" value="&lt;div&gt;携带集成BBU、背负电脑包出发&lt;/div&gt;1、放置电脑包&lt;div&gt;2、甩总插头、地线→&lt;span style=&quot;background-color: initial;&quot;&gt;甩微波线路&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3、接RRU线路&lt;/div&gt;&lt;div&gt;4、待油机报告接电完成→电压表接电笔接口、调750V交流→单手测电压并关电表→RRU插座接电&lt;span style=&quot;background-color: initial;&quot;&gt;→电源模块地线&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;→BBU地线&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5、微波电源模块→POE、LAN网线&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;6、同时插BBU和微波插座→按下插座按钮→电压表调200V直流→测交转直电压（54V）→关闭BBU插座按钮→左手推风扇、右手插交转直→打开BBU插座按钮&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7、接BBU侧的RRU光纤、微波光纤、调测线、调测线RJ45接口&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;8、RRU抱杆捆扎&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9、电脑连接微波线→进入网页点击校准→记录油机电压234V、中心频率GMHZ、发射电平dbm、双向速率Mbps&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;10、电脑连接BBU线→点击MML→输入DSP NRCUCELL→小区建立成功→报停止计时&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="605" y="360" width="315" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="mwNcCX6VRX-eQ0xU2xN--42" value="刘博洋" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
-          <mxGeometry x="570" y="-90" width="30" height="60" as="geometry" />
+          <mxGeometry x="575" y="350" width="315" height="260" as="geometry" />
         </mxCell>
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--47" value="1、携带油机、远端微波、手钻出发&lt;div&gt;远端：&lt;br&gt;&lt;div&gt;2、接油机、集成BBU地线（报XX接地完成）&lt;/div&gt;&lt;div&gt;3、油机风门→档位→打火→运行档位→单手测电压&lt;/div&gt;&lt;div&gt;4、微波挂设→接线→扎带&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;近端：&lt;/div&gt;&lt;/div&gt;&lt;div&gt;5、接地线→接电→电表测电压→测信源光功率&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="99" y="-130" width="315" height="260" as="geometry" />
+          <mxGeometry x="334.5" y="-130" width="315" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
