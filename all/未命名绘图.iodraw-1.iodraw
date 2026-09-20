@@ -8,7 +8,7 @@
           <mxGeometry x="680" y="150" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="360" y="200" width="370" height="160" as="geometry" />
+          <mxGeometry x="360" y="200" width="370" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--30" value="1、微波&lt;div style=&quot;font-size: 17px;&quot;&gt;2、笔记本电脑&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="600" y="250" width="120" height="60" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="540" y="360" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--42" value="刘博洋" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="340" width="30" height="60" as="geometry" />
+          <mxGeometry x="570" y="40" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
