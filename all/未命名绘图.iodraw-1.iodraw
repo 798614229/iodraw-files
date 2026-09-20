@@ -31,9 +31,6 @@
         <mxCell id="_UhpOqRxg9HbTItCM2ql-12" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;陈超&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;(卫星车)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="335" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_UhpOqRxg9HbTItCM2ql-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_UhpOqRxg9HbTItCM2ql-13" target="_UhpOqRxg9HbTItCM2ql-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-13" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;陈超&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;(卫星车)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="630" y="335" width="90" height="90" as="geometry" />
         </mxCell>
@@ -64,14 +61,11 @@
         <mxCell id="_UhpOqRxg9HbTItCM2ql-25" value="&lt;div&gt;1、微波操作后返回&lt;/div&gt;&lt;div&gt;2、固定加强芯→固定扎带→缠胶泥→上抱箍→做堵头→加贴片→烧绒毛→加强芯回弯→固定光缆卡扣&lt;/div&gt;&lt;div&gt;3、手钻上盒&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="795" y="40" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="_UhpOqRxg9HbTItCM2ql-29" value="协助王帅分纤、穿管" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="795" y="350" width="140" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-31" value="&lt;div&gt;1、携带光缆神器跑到远端放缆，固定，返回操作台&lt;/div&gt;&lt;div&gt;2、夹缆（配合李呈士）：夹缆处擦拭→打磨→擦拭→缠黑胶带。&lt;/div&gt;&lt;div&gt;3、分纤：协助冯朝辉&lt;/div&gt;&lt;div&gt;4、固定加强芯→固定扎带→缠胶泥→上抱箍→做堵头→加贴片→烧绒毛→加强芯回弯&lt;/div&gt;&lt;div&gt;5、手钻上盒&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="90" y="600" width="190" height="140" as="geometry" />
+          <mxGeometry x="120" y="445.39" width="190" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-34" value="接头盒胶条、螺丝" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="770" y="600" width="190" height="140" as="geometry" />
+          <mxGeometry x="780" y="445" width="190" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-37" value="&lt;div&gt;1、搬操作台出发&lt;/div&gt;&lt;div&gt;2、熔接：剥纤→放右侧熔接&lt;/div&gt;&lt;div&gt;3、盖盒：手钻拧螺丝&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="445" y="610" width="190" height="140" as="geometry" />
