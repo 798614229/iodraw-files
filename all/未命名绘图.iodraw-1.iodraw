@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-47" value="盘纤" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;strokeColor=none;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="485" y="300" width="45" height="50" as="geometry" />
+          <mxGeometry x="480" y="315" width="45" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-49" value="熔接" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="453" y="490" width="40" height="20" as="geometry" />
