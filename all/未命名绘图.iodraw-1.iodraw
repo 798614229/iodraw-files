@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="YVfboMiy_pA9cVkmAZBF">
-    <mxGraphModel dx="1122" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--45" value="1、放置电脑包&lt;div&gt;2、甩总插头、地线→&lt;span style=&quot;background-color: initial;&quot;&gt;甩微波线路&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3、接RRU线路&lt;/div&gt;&lt;div&gt;4、待油机报告接电完成→电压表接电笔接口、调750V交流→单手测电压并关电表→RRU插座接电&lt;span style=&quot;background-color: initial;&quot;&gt;→电源模块地线&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;→BBU地线&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5、微波电源模块→POE、LAN网线&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;6、同时插BBU和微波插座→按下插座按钮→电压表调200V直流→测交转直电压（54V）→关闭BBU插座按钮→左手推风扇、右手插交转直→打开BBU插座按钮&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7、接BBU侧的RRU光纤、微波光纤、调测线、调测线RJ45接口&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;8、电脑连接微波线→进入网页点击校准→记录油机电压234V、中心频率GMHZ、发射电平dbm、双向速率Mbps&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9、电脑连接BBU线→点击MML→输入DSP NRCUCELL→小区建立成功→报停止计时&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="605" y="360" width="315" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="mwNcCX6VRX-eQ0xU2xN--47" value="1、放置电脑包&lt;div&gt;2、甩总插头、地线→&lt;span style=&quot;background-color: initial;&quot;&gt;甩微波线路&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3、接RRU线路&lt;/div&gt;&lt;div&gt;4、待油机报告接电完成→电压表接电笔接口、调750V交流→单手测电压并关电表→RRU插座接电&lt;span style=&quot;background-color: initial;&quot;&gt;→电源模块地线&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;→BBU地线&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5、微波电源模块→POE、LAN网线&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;6、同时插BBU和微波插座→按下插座按钮→电压表调200V直流→测交转直电压（54V）→关闭BBU插座按钮→左手推风扇、右手插交转直→打开BBU插座按钮&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7、接BBU侧的RRU光纤、微波光纤、调测线、调测线RJ45接口&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;8、电脑连接微波线→进入网页点击校准→记录油机电压234V、中心频率GMHZ、发射电平dbm、双向速率Mbps&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;9、电脑连接BBU线→点击MML→输入DSP NRCUCELL→小区建立成功→报停止计时&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-150" width="315" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
