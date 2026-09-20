@@ -25,9 +25,6 @@
         <mxCell id="_UhpOqRxg9HbTItCM2ql-9" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;刘博洋&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;(微波)&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="630" y="200" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_UhpOqRxg9HbTItCM2ql-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_UhpOqRxg9HbTItCM2ql-12" target="_UhpOqRxg9HbTItCM2ql-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_UhpOqRxg9HbTItCM2ql-12" target="_UhpOqRxg9HbTItCM2ql-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -66,9 +63,6 @@
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-25" value="&lt;div&gt;1、微波操作后返回&lt;/div&gt;&lt;div&gt;2、固定加强芯→固定扎带→缠胶泥→上抱箍→做堵头→加贴片→烧绒毛→加强芯回弯→固定光缆卡扣&lt;/div&gt;&lt;div&gt;3、手钻上盒&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="795" y="40" width="190" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="_UhpOqRxg9HbTItCM2ql-27" value="&lt;div&gt;1、协助冯朝辉穿管&lt;/div&gt;&lt;div&gt;2、盘纤&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="150" y="350" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-29" value="协助王帅分纤、穿管" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="795" y="350" width="140" height="60" as="geometry" />
@@ -110,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-61" value="分纤、穿管" style="rounded=0;whiteSpace=wrap;html=1;rotation=-45;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="565.61" y="419.39" width="70" height="20" as="geometry" />
+          <mxGeometry x="561.61" y="425.39" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
