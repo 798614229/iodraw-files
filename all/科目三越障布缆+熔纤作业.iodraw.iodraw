@@ -25,6 +25,9 @@
         <mxCell id="_UhpOqRxg9HbTItCM2ql-9" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;刘博洋&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;(微波)&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="630" y="200" width="90" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="_UhpOqRxg9HbTItCM2ql-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_UhpOqRxg9HbTItCM2ql-12" target="_UhpOqRxg9HbTItCM2ql-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-12" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;陈超&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;(卫星车)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360.5" y="335" width="87" height="90" as="geometry" />
         </mxCell>
@@ -66,6 +69,9 @@
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-37" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;1、&lt;span style=&quot;background-color: initial;&quot;&gt;搬操作台至操作区域&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、将切割刀、热剥钳、米勒钳、热缩管等工具放到操作台上&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 13px; background-color: initial;&quot;&gt;3、跑至近端支架，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;将拽缆绳卡入滑轮内扶起支架&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4、开剥近端光缆&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5、待远端固定好，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;拽缆过河&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;6、继续开剥近端光缆&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7、剥纤：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;预留两侧纤芯长度，热剥钳热剥近端和远端光缆，帮助冯朝晖分离两根束管&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;8、熔接：&lt;span style=&quot;background-color: initial;&quot;&gt;右侧纤芯制作、放置→开启熔接机盖板（12芯次）、打开两侧压板→热缩第12芯、从热熔炉取出第11芯&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;9、盘纤&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;10、&lt;span style=&quot;background-color: initial;&quot;&gt;手钻上盒&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="396.25" y="600" width="287.5" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="_UhpOqRxg9HbTItCM2ql-72" value="" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="177" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
