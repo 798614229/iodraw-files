@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-3" value="刘小铖" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="364" y="290" width="50" height="90" as="geometry" />
+          <mxGeometry x="364" y="225" width="50" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_UhpOqRxg9HbTItCM2ql-5" target="_UhpOqRxg9HbTItCM2ql-31">
           <mxGeometry relative="1" as="geometry" />
@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-12" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;陈超&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;(卫星车)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="414" y="290" width="60" height="90" as="geometry" />
+          <mxGeometry x="420" y="327.5" width="44" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_UhpOqRxg9HbTItCM2ql-13" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;陈超&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;(卫星车)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="630" y="335" width="90" height="90" as="geometry" />
