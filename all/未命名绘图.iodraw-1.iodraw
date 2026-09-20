@@ -14,34 +14,18 @@
           <mxGeometry x="600" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--31" value="集成BBU" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="390" y="230" width="186" height="100" as="geometry" />
+          <mxGeometry x="390" y="230" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--32" value="地排" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="485" y="170" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mwNcCX6VRX-eQ0xU2xN--33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="mwNcCX6VRX-eQ0xU2xN--33" value="抱杆" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="150" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mwNcCX6VRX-eQ0xU2xN--35" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="mwNcCX6VRX-eQ0xU2xN--36" parent="1" source="mwNcCX6VRX-eQ0xU2xN--29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="242" as="sourcePoint" />
-            <mxPoint x="770" y="205" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="790" y="280" />
-              <mxPoint x="730" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mwNcCX6VRX-eQ0xU2xN--36" value="操作台" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="770" y="180" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mwNcCX6VRX-eQ0xU2xN--37" value="抱杆" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="770" y="90" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mwNcCX6VRX-eQ0xU2xN--38" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mwNcCX6VRX-eQ0xU2xN--27" target="mwNcCX6VRX-eQ0xU2xN--37">
+        <mxCell id="mwNcCX6VRX-eQ0xU2xN--38" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mwNcCX6VRX-eQ0xU2xN--27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="250" as="sourcePoint" />
-            <mxPoint x="787" y="214" as="targetPoint" />
+            <mxPoint x="783" y="136.20000000000005" as="targetPoint" />
             <Array as="points">
               <mxPoint x="730" y="170" />
               <mxPoint x="760" y="260" />
