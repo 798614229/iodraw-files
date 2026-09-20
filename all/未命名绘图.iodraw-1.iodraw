@@ -4,16 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mwNcCX6VRX-eQ0xU2xN--26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="120" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="680" y="150" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--28" value="油机" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mwNcCX6VRX-eQ0xU2xN--29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mwNcCX6VRX-eQ0xU2xN--29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="370" height="160" as="geometry" />
         </mxCell>
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--30" value="1、微波&lt;div style=&quot;font-size: 17px;&quot;&gt;2、笔记本电脑&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
@@ -24,6 +21,9 @@
         </mxCell>
         <mxCell id="mwNcCX6VRX-eQ0xU2xN--32" value="地排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="170" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mwNcCX6VRX-eQ0xU2xN--33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
