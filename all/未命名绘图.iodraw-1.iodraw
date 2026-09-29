@@ -100,25 +100,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-63" value="业务恢复&lt;div style=&quot;font-size: 10px;&quot;&gt;（代维人员）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="560" y="500" width="80" height="40" as="geometry" />
+          <mxGeometry x="374" y="670" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-64" value="故障归档&lt;div style=&quot;font-size: 10px;&quot;&gt;（代维人员）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="560" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-66" value="综资修正&lt;div style=&quot;font-size: 10px;&quot;&gt;（资源团队）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="560" y="570" width="80" height="40" as="geometry" />
+          <mxGeometry x="374" y="770" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-69" value="熔接&lt;br&gt;&lt;div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;（代维人员）&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="330" y="590" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7F7fTS0W-T29xdIfVxn3-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="7F7fTS0W-T29xdIfVxn3-70">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="437.05999999999995" y="615" as="sourcePoint" />
-            <mxPoint x="600" y="500" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="490" y="615" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-70" value="倒纤，记录光路端子信息&lt;br&gt;&lt;div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;（代维人员）&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="410" y="590" width="70" height="40" as="geometry" />
