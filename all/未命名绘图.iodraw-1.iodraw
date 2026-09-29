@@ -44,7 +44,7 @@
           <mxGeometry x="326" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-29" value="故障归档&lt;div style=&quot;font-size: 10px;&quot;&gt;（代维人员）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="515" y="340" width="80" height="40" as="geometry" />
+          <mxGeometry x="489" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-51" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;故障前置" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="130" y="480" width="140" height="240" as="geometry" />
@@ -73,10 +73,10 @@
           <mxGeometry x="324" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-58" value="业务恢复&lt;div&gt;（代维人员）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="512" y="500" width="80" height="40" as="geometry" />
+          <mxGeometry x="489" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-60" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;故障闭环" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="482" y="480" width="140" height="240" as="geometry" />
+          <mxGeometry x="459" y="480" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7F7fTS0W-T29xdIfVxn3-55" target="7F7fTS0W-T29xdIfVxn3-57">
           <mxGeometry relative="1" as="geometry">
@@ -94,13 +94,13 @@
           <mxGeometry x="324" y="650" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-64" value="故障归档&lt;div style=&quot;font-size: 10px;&quot;&gt;（代维人员）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="512" y="650" width="80" height="40" as="geometry" />
+          <mxGeometry x="489" y="650" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7F7fTS0W-T29xdIfVxn3-66" target="7F7fTS0W-T29xdIfVxn3-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-66" value="综资修正&lt;div style=&quot;font-size: 10px;&quot;&gt;（资源团队）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#26FF84;" vertex="1" parent="1">
-          <mxGeometry x="512" y="575" width="80" height="40" as="geometry" />
+          <mxGeometry x="489" y="575" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7F7fTS0W-T29xdIfVxn3-100" target="7F7fTS0W-T29xdIfVxn3-28">
           <mxGeometry relative="1" as="geometry" />
