@@ -34,7 +34,7 @@
         <mxCell id="7F7fTS0W-T29xdIfVxn3-10" value="业务恢复&lt;div&gt;（代维人员）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7F7fTS0W-T29xdIfVxn3-19" value="熔接&lt;div&gt;/倒纤&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=11;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="7F7fTS0W-T29xdIfVxn3-19" value="熔接&lt;div&gt;或&lt;br&gt;&lt;div&gt;倒纤&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=11;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="400" y="310" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
