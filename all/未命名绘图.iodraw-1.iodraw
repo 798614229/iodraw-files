@@ -114,9 +114,6 @@
         <mxCell id="7F7fTS0W-T29xdIfVxn3-105" value="熔接&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;（代维人员）&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="340" y="580" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7F7fTS0W-T29xdIfVxn3-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7F7fTS0W-T29xdIfVxn3-106" target="7F7fTS0W-T29xdIfVxn3-63">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-106" value="倒纤&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;（代维人员）&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="414" y="580" width="50" height="30" as="geometry" />
         </mxCell>
@@ -126,7 +123,7 @@
             <mxPoint x="430" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7F7fTS0W-T29xdIfVxn3-113" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="7F7fTS0W-T29xdIfVxn3-113" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7F7fTS0W-T29xdIfVxn3-106" target="7F7fTS0W-T29xdIfVxn3-63">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="510" as="sourcePoint" />
             <mxPoint x="490" y="510" as="targetPoint" />
