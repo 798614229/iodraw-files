@@ -108,19 +108,11 @@
         <mxCell id="7F7fTS0W-T29xdIfVxn3-66" value="综资修正&lt;div style=&quot;font-size: 10px;&quot;&gt;（资源团队）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="560" y="590" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7F7fTS0W-T29xdIfVxn3-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="7F7fTS0W-T29xdIfVxn3-63">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="610" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="7F7fTS0W-T29xdIfVxn3-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7F7fTS0W-T29xdIfVxn3-91" target="7F7fTS0W-T29xdIfVxn3-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7F7fTS0W-T29xdIfVxn3-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="7F7fTS0W-T29xdIfVxn3-66">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="610" as="sourcePoint" />
-            <mxPoint x="590" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7F7fTS0W-T29xdIfVxn3-90" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="7F7fTS0W-T29xdIfVxn3-88">
-          <mxGeometry x="-1" relative="1" as="geometry" />
+        <mxCell id="7F7fTS0W-T29xdIfVxn3-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7F7fTS0W-T29xdIfVxn3-91" target="7F7fTS0W-T29xdIfVxn3-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-91" value="熔纤&lt;div&gt;&lt;br&gt;&lt;div&gt;倒纤&lt;/div&gt;&lt;/div&gt;" style="shape=sortShape;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="580" width="80" height="80" as="geometry" />
