@@ -25,6 +25,9 @@
         <mxCell id="7F7fTS0W-T29xdIfVxn3-9" value="判断恢复方式&lt;div&gt;（代维人员）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="270" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7F7fTS0W-T29xdIfVxn3-10" value="判断恢复方式&lt;div&gt;（代维人员）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
