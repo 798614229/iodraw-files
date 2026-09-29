@@ -25,7 +25,7 @@
         <mxCell id="7F7fTS0W-T29xdIfVxn3-8" value="断点测试&lt;div&gt;（代维人员）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7F7fTS0W-T29xdIfVxn3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7F7fTS0W-T29xdIfVxn3-9" target="7F7fTS0W-T29xdIfVxn3-10">
+        <mxCell id="7F7fTS0W-T29xdIfVxn3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7F7fTS0W-T29xdIfVxn3-9" target="7F7fTS0W-T29xdIfVxn3-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-9" value="判断恢复方式&lt;div&gt;（代维人员）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -35,7 +35,7 @@
           <mxGeometry x="360" y="350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-19" value="熔接/倒纤" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="349" y="330" width="30" height="10" as="geometry" />
+          <mxGeometry x="360" y="320" width="30" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
