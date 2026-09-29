@@ -35,7 +35,7 @@
           <mxGeometry x="360" y="350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-19" value="熔接/倒纤" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="360" y="320" width="30" height="10" as="geometry" />
+          <mxGeometry x="400" y="310" width="70" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
