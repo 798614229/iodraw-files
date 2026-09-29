@@ -19,10 +19,8 @@
         <mxCell id="7F7fTS0W-T29xdIfVxn3-4" value="到达现场&lt;div&gt;定位断点&lt;div style=&quot;font-size: 10px;&quot;&gt;（代维人员）&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="160" y="290" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7F7fTS0W-T29xdIfVxn3-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7F7fTS0W-T29xdIfVxn3-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="260" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="7F7fTS0W-T29xdIfVxn3-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7F7fTS0W-T29xdIfVxn3-8" target="7F7fTS0W-T29xdIfVxn3-100">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-8" value="故障研判&lt;div&gt;判断恢复方式&lt;div style=&quot;font-size: 10px;&quot;&gt;（代维人员）&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="80" height="40" as="geometry" />
@@ -98,20 +96,12 @@
         <mxCell id="7F7fTS0W-T29xdIfVxn3-66" value="综资修正&lt;div style=&quot;font-size: 10px;&quot;&gt;（资源团队）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="560" y="590" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7F7fTS0W-T29xdIfVxn3-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="7F7fTS0W-T29xdIfVxn3-63">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="600" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="7F7fTS0W-T29xdIfVxn3-63">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="640" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7F7fTS0W-T29xdIfVxn3-100" target="7F7fTS0W-T29xdIfVxn3-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7F7fTS0W-T29xdIfVxn3-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7F7fTS0W-T29xdIfVxn3-100" target="7F7fTS0W-T29xdIfVxn3-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-100" value="熔接/倒纤&lt;br&gt;&lt;div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;（代维人员）&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
