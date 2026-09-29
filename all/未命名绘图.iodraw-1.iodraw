@@ -25,6 +25,9 @@
         <mxCell id="7F7fTS0W-T29xdIfVxn3-8" value="断点测试&lt;div style=&quot;font-size: 10px;&quot;&gt;（代维人员）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7F7fTS0W-T29xdIfVxn3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7F7fTS0W-T29xdIfVxn3-9" target="7F7fTS0W-T29xdIfVxn3-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7F7fTS0W-T29xdIfVxn3-9" value="判断恢复方式&lt;div style=&quot;font-size: 10px;&quot;&gt;（代维人员）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="80" height="40" as="geometry" />
         </mxCell>
@@ -45,6 +48,9 @@
               <mxPoint x="300" y="220" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7F7fTS0W-T29xdIfVxn3-28" value="断点测试&lt;div style=&quot;font-size: 10px;&quot;&gt;（代维人员）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
