@@ -7,7 +7,7 @@
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-1" value="铁通" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-70" y="360" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OJO0FYUDw2oLEoO9Q_O9-2" value="维护/施工单位" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OJO0FYUDw2oLEoO9Q_O9-2" value="代维/施工单位" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="360" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OJO0FYUDw2oLEoO9Q_O9-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OJO0FYUDw2oLEoO9Q_O9-4" edge="1">
@@ -148,6 +148,9 @@
         </mxCell>
         <mxCell id="j0Tyz9N-Zv_nfCb_Swhk-1" value="集中跳纤队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="190" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j0Tyz9N-Zv_nfCb_Swhk-2" value="集中跳纤队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="190" width="117" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
